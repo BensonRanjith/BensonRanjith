@@ -93,14 +93,16 @@ Real-time failure forecasting from I2C sensor streams, cutting unplanned downtim
 ## GitHub Activity
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BensonRanjith&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BensonRanjith&layout=compact&theme=github_dark&hide_border=true"/>
+
 </div>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=BensonRanjith&theme=github-dark-blue&hide_border=true" />
-## GitHub Activity
 
-## GitHub Activity
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BensonRanjith&theme=github-compact&hide_border=true" width="100%"/>
+
+</div>
 
 <div align="center">
 
