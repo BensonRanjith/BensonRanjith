@@ -93,25 +93,21 @@ Real-time failure forecasting from I2C sensor streams, cutting unplanned downtim
 ## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BensonRanjith&show_icons=true&count_private=true&title_color=2C7DA0&text_color=E2E8F0&icon_color=2C7DA0&bg_color=0F172A&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BensonRanjith&layout=compact&title_color=2C7DA0&text_color=E2E8F0&icon_color=2C7DA0&bg_color=0F172A&hide_border=true" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BensonRanjith&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BensonRanjith&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=BensonRanjith&theme=github-dark-blue&hide_border=true" />
+## GitHub Activity
 
-<br/>
+## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-trophies.vercel.app/?username=BensonRanjith&theme=algolia&no-frame=true&margin-w=10&column=4" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### Contribution Snake
 
 <img src="https://raw.githubusercontent.com/BensonRanjith/BensonRanjith/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
+
 
 <br/>
 
